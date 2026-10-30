@@ -24,17 +24,45 @@ I follow [@xiaolai](https://github.com/xiaolai)'s practice, not just his ideas: 
 
 ## What I build
 
-| Area | Project | What it does |
-|---|---|---|
-| AI workflow | [Tony-Claude-Code-Skills](https://github.com/shengdabai/Tony-Claude-Code-Skills) | 320+ curated Claude Code skills, agents, commands and sanitized configs — the toolbox behind everything else |
-| AI workflow | [AI-Team](https://github.com/shengdabai/AI-Team) | Multi-model orchestration: @-mention GPT, Claude, Gemini, DeepSeek and let them debate |
-| Daily production | [Tony-Articles](https://github.com/shengdabai/Tony-Articles) | Bilingual deep-dives on learning, growth and AI, published every day by a 13-step writing pipeline |
-| Daily production | [Small-yet-smart-programs](https://github.com/shengdabai/Small-yet-smart-programs) | Daily scanner that spots small, buildable software opportunities and briefs them |
-| Learning products | [hsk-prep-platform](https://github.com/shengdabai/hsk-prep-platform) | HSK exam prep: adaptive practice, mock exams, progress tracking |
-| Learning products | [chinese-mission](https://github.com/shengdabai/chinese-mission) | Mission-based language learning for professionals, with pricing, SEO and an iOS shell |
-| Learning products | [LinguaLens](https://github.com/shengdabai/LinguaLens) | Camera-first vocabulary learning: point, read, remember (web + iOS) |
-| Knowledge | [tony-knowledge-garden](https://github.com/shengdabai/tony-knowledge-garden) | Public digital garden: bilingual notes on AI, teaching and learning science |
-| Knowledge | [feishu-lark-to-obsidian](https://github.com/shengdabai/feishu-lark-to-obsidian) | One-click export of Feishu/Lark docs to Obsidian-ready Markdown |
+Three kinds of things come out of this account, roughly 100 repos so far. The tables are ordered by how useful each project is to someone who is not me.
+
+### 1 · Tools for people who build with AI
+
+| Project | What it does |
+|---|---|
+| [Tony-Claude-Code-Skills](https://github.com/shengdabai/Tony-Claude-Code-Skills) | 320+ curated Claude Code skills, agents, commands and sanitized configs, plus a Codex bridge — the toolbox behind everything else |
+| [IdeaForge](https://github.com/shengdabai/IdeaForge) | Turn any idea, link or image into a self-contained visual knowledge page, locally |
+| [AI-Team](https://github.com/shengdabai/AI-Team) | Multi-model playground: @-mention GPT, Claude, Gemini, DeepSeek and let them debate |
+| [gh-audit](https://github.com/shengdabai/gh-audit) | One-command security audit for GitHub repos and orgs: secrets, PII, dependencies, IaC |
+| [insidebar-ai](https://github.com/shengdabai/insidebar-ai) | All your AI chatbots in one browser sidebar — no API keys, privacy-first |
+| [freespace](https://github.com/shengdabai/freespace) | Smart tab manager: one keystroke files every open tab into searchable sessions |
+| [feishu-lark-to-obsidian](https://github.com/shengdabai/feishu-lark-to-obsidian) | Export Feishu/Lark docs to clean Obsidian-ready Markdown (extension + CLI) |
+| [AI-learning-step-by-step](https://github.com/shengdabai/AI-learning-step-by-step) | Bilingual learning path: from AI tools, to agents, to an AI startup |
+| [dev-guides-collection](https://github.com/shengdabai/dev-guides-collection) · [everything-claude-code](https://github.com/shengdabai/everything-claude-code) | Copy-paste-ready guides and a curated Claude Code toolkit |
+| [QuickTranslate](https://github.com/shengdabai/QuickTranslate) · [content-creator-hub](https://github.com/shengdabai/content-creator-hub) | Desktop translator (Tauri) · terminal tools to draft, score and publish to X / YouTube |
+
+### 2 · Learning products (education is the mission)
+
+| Project | What it does |
+|---|---|
+| [hsk-prep-platform](https://github.com/shengdabai/hsk-prep-platform) | HSK exam prep: leveled content, timed mock exams, spaced-repetition mistake book |
+| [chinese-mission](https://github.com/shengdabai/chinese-mission) | Learn Chinese by completing real-world missions through AI conversation |
+| [LinguaLens](https://github.com/shengdabai/LinguaLens) · [ChineseThinking](https://github.com/shengdabai/ChineseThinking) | Immersive reading & shadowing · daily micro-challenges to think in Chinese |
+| [chinese-textbook-generator](https://github.com/shengdabai/chinese-textbook-generator) | AI pipeline and multi-LLM specs for HSK-aligned themed textbooks |
+| [teaching-notes-sidebar](https://github.com/shengdabai/teaching-notes-sidebar) · [browser-extensions](https://github.com/shengdabai/browser-extensions) | Chrome extensions that turn any Chinese text into leveled teaching notes, pinyin and splitters |
+| [college-major-selector](https://github.com/shengdabai/college-major-selector) · gaokao suite ([review](https://github.com/shengdabai/gaokao-review), [600](https://github.com/shengdabai/gaokao-600), [assistant](https://github.com/shengdabai/gaokao-assistant), [materials](https://github.com/shengdabai/gaokao-study-materials)) | Planning, Socratic tutoring, essay grading and materials for China's college entrance exam |
+| [futurecraft](https://github.com/shengdabai/futurecraft) · [VoiceReaderApp](https://github.com/shengdabai/VoiceReaderApp) | Career exploration as an RPG · iOS reader that reads PDFs and articles aloud |
+
+### 3 · Daily production — the record itself
+
+| Project | What it does |
+|---|---|
+| [Tony-Articles](https://github.com/shengdabai/Tony-Articles) | Bilingual deep-dive essays on learning, growth and AI, published every day by a 13-step writing pipeline |
+| [Small-yet-smart-programs](https://github.com/shengdabai/Small-yet-smart-programs) | Daily scout for small, profitable, replicable software ideas with anti-hype scoring |
+| [ai-research-gallery](https://github.com/shengdabai/ai-research-gallery) | 240+ self-contained HTML research pages and visualizations (AI industry, tools, one-person business, learning science, enterprise AI) — curated from ~1,600 pages, stripped of anything personal |
+| [tony-knowledge-garden](https://github.com/shengdabai/tony-knowledge-garden) | Public digital garden: bilingual notes on AI, teaching and learning science |
+
+**Opening up next** (clean snapshots, under final review): `claude-code-plugins` (devflow gate, secret-shield, cockpit ledger band), `whylog` (local-first decision workbench), `agent-toolforge` (5 MCP servers + 5 skills), `masters-debate-agent`, `repo-profit-scanner`, `idea-trio-devtools`, `future-path-quest-open`, `apple-refurb-watch`, `Chinese-Learning`.
 
 ## How I work
 
@@ -42,7 +70,7 @@ I follow [@xiaolai](https://github.com/xiaolai)'s practice, not just his ideas: 
 - **One problem, one branch, one PR.** Small commits; tests and docs travel with the code; merged the same day.
 - **AI as co-worker.** Claude Code and Codex draft, review and audit each other; I decide what ships and I own the result.
 - **Teach what I build, build what I teach.** Every tool traces back to a real learner's problem; every lesson feeds back into the tools.
-- **Learn in public.** Notes, pipelines and configs are open so other teachers and builders can copy the parts that work.
+- **Learn in public, publish clean.** Notes, pipelines and configs are open; anything personal is stripped before it leaves my machine.
 
 ## Stats
 

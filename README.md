@@ -59,7 +59,7 @@ Three kinds of things come out of this account, roughly 100 repos so far. The ta
 |---|---|
 | [Tony-Articles](https://github.com/shengdabai/Tony-Articles) | Bilingual deep-dive essays on learning, growth and AI, published every day by a 13-step writing pipeline |
 | [Small-yet-smart-programs](https://github.com/shengdabai/Small-yet-smart-programs) | Daily scout for small, profitable, replicable software ideas with anti-hype scoring |
-| [ai-research-gallery](https://github.com/shengdabai/ai-research-gallery) | 240+ self-contained HTML research pages and visualizations (AI industry, tools, one-person business, learning science, enterprise AI) — curated from ~1,600 pages, stripped of anything personal |
+| [ai-research-gallery](https://github.com/shengdabai/ai-research-gallery) | 160+ self-contained HTML research pages and visualizations (AI industry, tools, one-person business, learning science, enterprise AI) — curated from ~1,600 pages, stripped of anything personal |
 | [tony-knowledge-garden](https://github.com/shengdabai/tony-knowledge-garden) | Public digital garden: bilingual notes on AI, teaching and learning science |
 
 **Opening up next** (clean snapshots, under final review): `claude-code-plugins` (devflow gate, secret-shield, cockpit ledger band), `whylog` (local-first decision workbench), `agent-toolforge` (5 MCP servers + 5 skills), `masters-debate-agent`, `repo-profit-scanner`, `idea-trio-devtools`, `future-path-quest-open`, `apple-refurb-watch`, `Chinese-Learning`.

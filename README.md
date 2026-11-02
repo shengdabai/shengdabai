@@ -31,6 +31,10 @@ Three kinds of things come out of this account, roughly 100 repos so far. The ta
 | Project | What it does |
 |---|---|
 | [Tony-Claude-Code-Skills](https://github.com/shengdabai/Tony-Claude-Code-Skills) | 320+ curated Claude Code skills, agents, commands and sanitized configs, plus a Codex bridge — the toolbox behind everything else |
+| [ai-built-mini-tools](https://github.com/shengdabai/ai-built-mini-tools) · [try online](https://shengdabai.github.io/ai-built-mini-tools/) | 58 offline browser tools, each built by AI agents from a one-page spec with unit tests and a scripted browser check — copy the method, not only the code |
+| [claude-code-plugins](https://github.com/shengdabai/claude-code-plugins) | The plugins I run every day: devflow process guard, decision tracker, secret-shield and a task-ledger band for Claude Code |
+| [agent-toolforge](https://github.com/shengdabai/agent-toolforge) | Ten building blocks for AI agents: 5 MCP servers and 5 Claude / Codex skills |
+| [idea-trio-devtools](https://github.com/shengdabai/idea-trio-devtools) · [whylog](https://github.com/shengdabai/whylog) | promptdiff (snapshot and diff your AI config), SkillLint, CardStack · a local-first decision log that feeds review lessons into the next decision |
 | [IdeaForge](https://github.com/shengdabai/IdeaForge) | Turn any idea, link or image into a self-contained visual knowledge page, locally |
 | [AI-Team](https://github.com/shengdabai/AI-Team) | Multi-model playground: @-mention GPT, Claude, Gemini, DeepSeek and let them debate |
 | [gh-audit](https://github.com/shengdabai/gh-audit) | One-command security audit for GitHub repos and orgs: secrets, PII, dependencies, IaC |
@@ -47,11 +51,12 @@ Three kinds of things come out of this account, roughly 100 repos so far. The ta
 |---|---|
 | [hsk-prep-platform](https://github.com/shengdabai/hsk-prep-platform) | HSK exam prep: leveled content, timed mock exams, spaced-repetition mistake book |
 | [chinese-mission](https://github.com/shengdabai/chinese-mission) | Learn Chinese by completing real-world missions through AI conversation |
+| [Chinese-Learning](https://github.com/shengdabai/Chinese-Learning) | AI Mandarin tutor: topic vocabulary, voice conversation and graded session reports |
 | [LinguaLens](https://github.com/shengdabai/LinguaLens) · [ChineseThinking](https://github.com/shengdabai/ChineseThinking) | Immersive reading & shadowing · daily micro-challenges to think in Chinese |
 | [chinese-textbook-generator](https://github.com/shengdabai/chinese-textbook-generator) | AI pipeline and multi-LLM specs for HSK-aligned themed textbooks |
 | [teaching-notes-sidebar](https://github.com/shengdabai/teaching-notes-sidebar) · [browser-extensions](https://github.com/shengdabai/browser-extensions) | Chrome extensions that turn any Chinese text into leveled teaching notes, pinyin and splitters |
 | [college-major-selector](https://github.com/shengdabai/college-major-selector) · gaokao suite ([review](https://github.com/shengdabai/gaokao-review), [600](https://github.com/shengdabai/gaokao-600), [assistant](https://github.com/shengdabai/gaokao-assistant), [materials](https://github.com/shengdabai/gaokao-study-materials)) | Planning, Socratic tutoring, essay grading and materials for China's college entrance exam |
-| [futurecraft](https://github.com/shengdabai/futurecraft) · [VoiceReaderApp](https://github.com/shengdabai/VoiceReaderApp) | Career exploration as an RPG · iOS reader that reads PDFs and articles aloud |
+| [futurecraft](https://github.com/shengdabai/futurecraft) · [future-path-quest-open](https://github.com/shengdabai/future-path-quest-open) · [VoiceReaderApp](https://github.com/shengdabai/VoiceReaderApp) | Career exploration as an RPG · a gamified simulator of future majors, roles and life choices · iOS reader that reads PDFs and articles aloud |
 
 ### 3 · Daily production — the record itself
 
@@ -59,10 +64,12 @@ Three kinds of things come out of this account, roughly 100 repos so far. The ta
 |---|---|
 | [Tony-Articles](https://github.com/shengdabai/Tony-Articles) | Bilingual deep-dive essays on learning, growth and AI, published every day by a 13-step writing pipeline |
 | [Small-yet-smart-programs](https://github.com/shengdabai/Small-yet-smart-programs) | Daily scout for small, profitable, replicable software ideas with anti-hype scoring |
-| [ai-research-gallery](https://github.com/shengdabai/ai-research-gallery) · [read online](https://shengdabai.github.io/ai-research-gallery/) | 54 self-contained HTML research pages and visualizations (AI industry, tools, one-person business, learning science, enterprise AI) — curated from ~1,600 pages over three privacy passes, nothing personal left in |
+| [ai-research-gallery](https://github.com/shengdabai/ai-research-gallery) · [read online](https://shengdabai.github.io/ai-research-gallery/) | 166 self-contained HTML research pages and visualizations (AI industry, tools, one-person business, learning science, enterprise AI) — curated from ~1,600 pages over several privacy passes, nothing personal left in |
 | [tony-knowledge-garden](https://github.com/shengdabai/tony-knowledge-garden) | Public digital garden: bilingual notes on AI, teaching and learning science |
 
-**Opening up next** (clean snapshots, under final review; the gallery above is already public): `claude-code-plugins` (devflow gate, secret-shield, cockpit ledger band), `whylog` (local-first decision workbench), `agent-toolforge` (5 MCP servers + 5 skills), `masters-debate-agent`, `repo-profit-scanner`, `idea-trio-devtools`, `future-path-quest-open`, `apple-refurb-watch`, `Chinese-Learning`.
+Small utilities: [apple-refurb-watch](https://github.com/shengdabai/apple-refurb-watch) (get notified when Apple's refurbished store lists new Macs).
+
+**Still private, on purpose:** production apps with payments or learner data, and two repos (`masters-debate-agent`, `repo-profit-scanner`) whose history needs a clean-up before it can go public.
 
 ## How I work
 
@@ -71,6 +78,7 @@ Three kinds of things come out of this account, roughly 100 repos so far. The ta
 - **AI as co-worker.** Claude Code and Codex draft, review and audit each other; I decide what ships and I own the result.
 - **Teach what I build, build what I teach.** Every tool traces back to a real learner's problem; every lesson feeds back into the tools.
 - **Learn in public, publish clean.** Notes, pipelines and configs are open; anything personal is stripped before it leaves my machine.
+- **Read the graph honestly.** Most commits are co-authored by Claude or Codex (see the `Co-Authored-By` trailers) and land through one-branch, one-PR merges, so the contribution count measures process as well as product. Judge the work by what ships, the tests that come with it, and the repos above.
 
 ## Stats
 

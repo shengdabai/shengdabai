@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tony Sheng 👋</h1>
 <p align="center">
-  <b>Engineer × Educator × AI Producer — turning teaching craft into shipped software, every single day.</b><br/>
-  <i>Producer, not consumer · practicing <a href="https://github.com/xiaolai">@xiaolai</a>'s way</i>
+  <b>Engineer × Educator × AI Producer — turning 8+ years across the education value chain into shipped AI software, every day.</b><br/>
+  <i>MA Ed Leadership (Manchester) · Trinity DipTESOL · Cambridge CELTA · Producer, not consumer (<a href="https://github.com/xiaolai">@xiaolai</a>'s way)</i>
 </p>
 
 <p align="center">
@@ -18,33 +18,64 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <b>🎓 6,000+ Learners</b><br/>
-      <sub>10 yrs teaching · CELTA + TESOL</sub>
+      <b>🎓 8+ Yrs in Education</b><br/>
+      <sub>Since 2018 · 6,000+ learners · 5.0/5.0</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>🏅 MA &amp; DipTESOL</b><br/>
+      <sub>Manchester · CELTA · TKT · BEng</sub>
     </td>
     <td align="center" width="25%">
       <b>🛠️ 75+ Open Repos</b><br/>
       <sub>175+ total · Web · iOS · macOS · CLI</sub>
     </td>
     <td align="center" width="25%">
-      <b>✍️ 630+ Essays</b><br/>
-      <sub>Daily bilingual · 13-step pipeline</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>🤖 320+ Agent Skills</b><br/>
-      <sub>Claude Code · Codex · MCP</sub>
+      <b>✍️ 630+ Daily Essays</b><br/>
+      <sub>Bilingual · 320+ Agent Skills</sub>
     </td>
   </tr>
 </table>
 
 ---
 
+## About me
+
+Most EdTech builders have never taught a real class; most educators have never shipped software, scaled a million-follower content network, or owned a sales target. **Since 2018, I have worked across every link of the education value chain — and now I engineer it with AI.**
+
+Trained as an engineer (**BEng**, Hefei University of Technology) and educated in school leadership (**MA in Educational Leadership & Administration**, The University of Manchester), I bring a full-stack blend of pedagogy, commercial execution, and AI engineering:
+
+- **Bilingual Teaching & Pedagogy (6,000+ learners)** — Started as an English teacher and trainer at New Oriental (~3,000 learners, #1 in department), built an independent international coaching practice, and currently serve as a corporate Mandarin trainer at Learnlight (**400+ hours, 5.0/5.0 rating** coaching professionals at JPMorgan Chase, ExxonMobil, the World Bank Group, Novartis & PUIG).
+- **International Education & Study Abroad** — Led K-12 international student recruitment, partner networks, webinars, and China/Asia go-to-market initiatives for Canada & U.S. institutions at ApplyBoard.
+- **Self-Media, Community Operations & Commercial Sales** — Managed content, video-platform, and community operations for a **1M+ follower** network (mentoring **300+ creators** and delivering a RMB 3M private advisory-board program); achieved #1 departmental course sales (RMB 600K/quarter) and advised **20+ creators & small businesses** on positioning, pricing, and WeChat-ecosystem growth.
+- **AI × Education Producer (Founder, Z Turns)** — Practicing [@xiaolai](https://github.com/xiaolai)'s craft of daily production: turning 5,000+ hours of structured learning into **175+ repos (75+ open-source)**, **630+ daily bilingual essays**, **320+ Claude Code skills**, **20 HSK-aligned themed textbooks**, and open Chinese learning datasets.
+
+### 关于我
+
+懂技术的往往没站过讲台，懂教学的往往没写过软件、运营过百万社群，也没背过一线销售指标。**自 2018 年踏入教育行业以来，我完整走通了教育链条的每一环——现在，我正用 AI 将这些经验全部工程化。**
+
+我本科毕业于**合肥工业大学（211）工程管理专业**，硕士毕业于**英国曼彻斯特大学教育领导力与管理专业（MA）**，持有 **Trinity DipTESOL（英国 7 级教学文凭）**、**剑桥 CELTA**、**剑桥 TKT 全系列（1–3 / YL / CLIL）**及**中国高中英语教师资格证**。八年多来，我的职业实践始终围绕「教育 × 商业 × 技术」展开：
+
+- **中英文教学与教研（累计 6,000+ 学员）**：2018 年起步于新东方（累计教授约 3,000 名学员、部门业绩第一），后独立搭建国际语言教学工作室；现为 Learnlight 远程企业中文培训师（累计授课 **400+ 小时、评分 5.0/5.0**，服务 JPMorgan Chase、ExxonMobil、世界银行集团、Novartis、PUIG 等跨国机构专业人士）。
+- **海外留学与国际教育**：在 ApplyBoard 负责中国及亚洲市场的 K-12 国际招生、加拿大/美国院校合作与中英双语市场推广。
+- **自媒体、社群运营与商业销售**：操盘过**百万级粉丝**自媒体矩阵与社群运营，培训辅导 **300+ 内容创作者**，主导交付 300 万元私董会项目；具备从课程销售（单季 60 万）到独立商业顾问（服务 20+ 小微企业与创作者，覆盖定位、定价与微信生态增长）的全周期变现经验。
+- **AI × 教育生产者（Z Turns 创始人）**：持续践行李笑来老师的长期主义与「做 AI 时代生产者」理念，每天用 Claude Code / Codex / Gemini 交付真实作品——已产出 **175+ 仓库（75+ 开源）**、**630+ 篇日更中英双语深度长文**、**320+ Agent Skills** 及 **20 册 HSK 分级主题教材**。
+
+### Credentials & background · 教育背景与专业资质
+
+| Dimension | Verified Credentials & Track Record |
+|---|---|
+| **Degrees · 学历** | **MA, Educational Leadership & Administration** — The University of Manchester (2021–2023)<br/>**BEng, Engineering Management** — Hefei University of Technology, Project 211 (2014–2018) |
+| **Teaching · 教学资质** | **Trinity DipTESOL** (UK Level 7 Diploma, Trinity College London) · **Cambridge CELTA** · **Cambridge TKT** (Modules 1–3, YL, CLIL) · **China High School English Teacher Qualification** |
+| **Growth · 运营与营销** | **China Internet Senior Marketer** · 1M+ follower content/community ops · 300+ creators mentored · International study-abroad GTM (Canada/U.S.) · B2C/B2B education sales |
+| **Languages · 语言** | Mandarin Chinese (Native) · English (Professional Working Proficiency) |
+
+---
+
 ## What I build & bring to the table
 
-Most people sit on one side of the fence — either engineers guessing at pedagogy, or teachers limited to off-the-shelf tools. I work at the intersection:
-
 - **AI Agent Engineering & QA Rigor** — Designing reusable multi-agent systems (Claude Code, Codex, Gemini, MCP servers), spec-to-test-to-browser-check build factories, security redaction CLIs (`GH-Audit`), and cost/accuracy eval suites (`CC-Eval`, `AgentProof`).
-- **Full-Stack AI × Education Products** — Shipping real learning apps across Next.js/TypeScript, React, Swift (iOS), Rust/Tauri, Electron, and Chrome MV3 — grounded in spaced repetition, Socratic tutoring, leveled input, and task-based learning.
-- **Industrialized Knowledge Pipelines** — Turning daily reading and teaching experience into 630+ bilingual essays, 166 interactive HTML research pages, and open language datasets — automated, privacy-audited, and shipped in public.
+- **Full-Stack AI × Education Products** — Shipping real learning apps across Next.js/TypeScript, React, Swift (iOS), Rust/Tauri, Electron, and Chrome MV3 — grounded in spaced repetition, Socratic tutoring, leveled input, and task-based pedagogy.
+- **Industrialized Knowledge & Content Pipelines** — Turning daily reading, teaching rubrics, and bilingual research into 630+ essays, 166 interactive HTML research pages, 20 HSK textbooks, and open datasets — automated, privacy-audited, and shipped in public.
 
 ---
 
@@ -71,7 +102,7 @@ Six flagship projects that best capture how I think, engineer, and teach:
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/shengdabai/ChineseThinking">ChineseThinking</a></h3>
       <p><b>Teach how Chinese thinks — not word-for-word translation.</b></p>
-      <p>AI Mandarin learning platform born from 10 years of teaching 6,000+ adults: daily micro-challenges + AI thinking partner that rewires framing patterns instead of drilling isolated vocab.</p>
+      <p>AI Mandarin learning platform distilled from 8+ years of teaching 6,000+ learners: daily micro-challenges + AI thinking partner that rewires framing patterns instead of drilling isolated vocab.</p>
       <p><code>TypeScript</code> <code>AI Tutor</code> <code>Pedagogy</code> <code>EdTech</code></p>
     </td>
     <td width="50%" valign="top">
@@ -96,18 +127,6 @@ Six flagship projects that best capture how I think, engineer, and teach:
     </td>
   </tr>
 </table>
-
----
-
-## Who I am
-
-I started as an engineer, spent a decade teaching adults (CELTA + TESOL certified, 6,000+ learners, from one-on-one coaching to corporate teams), and now devote my energy to one question: **what does education look like when a teacher can engineer their own tools?**
-
-Chinese and English teaching are where I honed the craft — one lane, not the whole road. The road is *AI × education*: full-stack learning products, teaching pipelines, knowledge gardens, and the agent workflows that make a one-person school possible.
-
-I follow [@xiaolai](https://github.com/xiaolai)'s practice, not just his ideas: self-teaching as a craft, showing up every day, and being a **producer** in the age of AI — shipping something real daily, with the commit history as the honest log. Over 5,000+ hours of structured learning and thousands of notes have turned into 175+ repos (75+ open-source) built side-by-side with AI.
-
-**中文简介**：我是用 AI 做教育的创造者。工程师出身，深耕成人教学十年（CELTA + TESOL 认证，累计教授 6,000+ 学员）；中英文教学是我的起点，而真正的赛道是 **AI × 教育产品工程化**——把教学法、Agent 工作流与全栈开发结合，打造「一人学校」的基础设施。我在长期践行李笑来老师的方法：自学是门手艺，在 AI 时代做生产者而不是消费者。这里的 **75+ 开源仓库**与 **630+ 篇日更中英双语长文**，就是我和 AI 每天真实生产的记录。
 
 ---
 
@@ -151,8 +170,8 @@ Ordered by how immediately useful each repo is to someone who is not me. Click a
 | [Chinese-Mission](https://github.com/shengdabai/Chinese-Mission) | Learn Chinese by completing real-world missions via AI conversation with pinyin, gloss &amp; voice |
 | [Chinese-Learning](https://github.com/shengdabai/Chinese-Learning) | AI Mandarin tutor: topic vocabulary, voice conversation and graded session reports in 24 native languages |
 | [LinguaLens](https://github.com/shengdabai/LinguaLens) | AI Chinese-learning toolkit: immersive reading, shadowing, translation &amp; fluency coaching (BYO key) |
-| [Chinese-Textbook-Generator](https://github.com/shengdabai/Chinese-Textbook-Generator) | AI pipeline and multi-LLM specs for generating HSK-aligned, print-ready themed textbooks |
-| [Chinese-Character-Content](https://github.com/shengdabai/Chinese-Character-Content) · [browse](https://shengdabai.github.io/Chinese-Character-Content/) | Open Chinese character learning datasets for English speakers — 3500/7000 lists + corpus frequency &amp; HSK bands |
+| [Chinese-Textbook-Generator](https://github.com/shengdabai/Chinese-Textbook-Generator) | Multi-LLM pipeline for generating HSK-aligned, print-ready themed textbooks (20 volumes built &amp; rubric-reviewed) |
+| [Chinese-Character-Content](https://github.com/shengdabai/Chinese-Character-Content) · [browse](https://shengdabai.github.io/Chinese-Character-Content/) | Open Chinese character learning datasets for English speakers — 3,500/7,000 lists + corpus frequency &amp; HSK bands (CSV/JSON) |
 | [Teaching-Notes-Sidebar](https://github.com/shengdabai/Teaching-Notes-Sidebar) · [Browser-Extensions](https://github.com/shengdabai/Browser-Extensions) | Chrome MV3 extensions turning any Chinese text into leveled teaching notes, pinyin &amp; splitters across 9 AI providers |
 | [TeachLoop-Workbench](https://github.com/shengdabai/TeachLoop-Workbench) | Offline static learning workbench turning any topic into immediate recall + 7-day consolidation loop |
 | [College-Major-Selector](https://github.com/shengdabai/College-Major-Selector) ([live](https://shengdabai.github.io/College-Major-Selector/)) · Gaokao suite ([Review](https://github.com/shengdabai/Gaokao-Review), [600](https://github.com/shengdabai/Gaokao-600), [Assistant](https://github.com/shengdabai/Gaokao-Assistant), [Materials](https://github.com/shengdabai/Gaokao-Study-Materials)) | University/major planning, Socratic tutoring, essay grading &amp; revision tools for China's Gaokao |
@@ -215,4 +234,4 @@ Ordered by how immediately useful each repo is to someone who is not me. Click a
 
 ## Let's connect
 
-If you are a **teacher who wants to build**, a **builder exploring EdTech**, or a **team wiring AI coding agents into a real daily workflow** — open an issue on any repo above, or say hi on [X](https://x.com/tonyzturns) / [LinkedIn](https://www.linkedin.com/in/changchun-sheng-520493255). I reply in English or 中文.
+If you are a **teacher who wants to build**, a **builder or team exploring AI × EdTech**, or someone wiring **AI coding agents into a real daily workflow** — open an issue on any repo above, or say hi on [X](https://x.com/tonyzturns) / [LinkedIn](https://www.linkedin.com/in/changchun-sheng-520493255). I reply in English or 中文.

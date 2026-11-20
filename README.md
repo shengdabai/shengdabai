@@ -13,7 +13,7 @@
 
 ## Start here · 4 projects to know my work
 
-Four flagship projects — all open-source, all live online, each capturing a distinct side of how I think, build with AI, and design for learners:
+Four flagship projects that best capture how I think, build with AI, and share in public:
 
 <table>
   <tr>
@@ -26,22 +26,22 @@ Four flagship projects — all open-source, all live online, each capturing a di
       <p><code>Bilingual</code> <code>13-Step Pipeline</code> <code>Quartz</code> <code>Daily Output</code></p>
     </td>
     <td width="50%" valign="top">
-      <sub><b>02 · AI ENGINEERING FACTORY</b></sub>
-      <h3>⚡ <a href="https://github.com/shengdabai/AI-Built-Mini-Tools">AI-Built-Mini-Tools</a></h3>
-      <p><b>58 offline, zero-backend browser tools built with AI coding agents.</b></p>
-      <p>An open experiment in repeatable AI delivery: written <code>SPEC.md</code> → pure-logic <code>core.js</code> → Node unit tests → Playwright browser checks. Copy the method, not just the code.</p>
-      <p>👉 <a href="https://shengdabai.github.io/AI-Built-Mini-Tools/"><b>Try all 58 tools live →</b></a></p>
-      <p><code>Spec-Driven</code> <code>Unit Tests</code> <code>Playwright QA</code> <code>Offline-First</code></p>
+      <sub><b>02 · AI WORKFLOW TOOLBOX</b></sub>
+      <h3>🧰 <a href="https://github.com/shengdabai/Tony-Claude-Code-Skills">Tony-Claude-Code-Skills</a></h3>
+      <p><b>320+ curated &amp; custom Claude Code skills, 9 agents, 39 commands &amp; a Codex bridge.</b></p>
+      <p>The battle-tested local AI workbench behind 75+ public repos — sanitized configs, MCP setups, and one-script install ready to adopt or adapt.</p>
+      <p>👉 <a href="https://github.com/shengdabai/Tony-Claude-Code-Skills#quick-start"><b>Explore &amp; install skills →</b></a></p>
+      <p><code>Claude Code</code> <code>Codex</code> <code>Agent Skills</code> <code>MCP</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>03 · EDUCATION PRODUCT</b></sub>
-      <h3>🎓 <a href="https://github.com/shengdabai/College-Major-Selector">College-Major-Selector</a></h3>
-      <p><b>Privacy-first Gaokao university &amp; major planner covering 31 provinces.</b></p>
-      <p>Parses provincial admissions data 100% locally in the browser to generate reach / match / safety recommendations, with an optional AI major advisor — zero server, zero login.</p>
-      <p>👉 <a href="https://shengdabai.github.io/College-Major-Selector/"><b>Launch planner live →</b></a></p>
-      <p><code>Zero-Backend</code> <code>Local Privacy</code> <code>AI Advisor</code> <code>EdTech</code></p>
+      <sub><b>03 · AI PRODUCT ADVISOR (NLPM FORK)</b></sub>
+      <h3>🧭 <a href="https://github.com/shengdabai/NLPM">NLPM · /nlpm:advise</a></h3>
+      <p><b>Built on <a href="https://github.com/xiaolai/nlpm">@xiaolai/nlpm</a>: evidence-checked product readiness for AI-built apps.</b></p>
+      <p>Adds <code>/nlpm:advise</code> with 36 rules (<code>P01–P36</code>: security, reliability, hygiene, release &amp; selling) plus a deterministic verifier (<code>nlpm-advise-verify</code>) that checks every cited file &amp; line without an LLM.</p>
+      <p>👉 <a href="https://github.com/shengdabai/NLPM#nlpm-fork-by-shengdabai"><b>Install plugin (3 commands) →</b></a> · <a href="https://shengdabai.github.io/NLPM/"><b>Docs →</b></a></p>
+      <p><code>Claude Plugin</code> <code>36 Rules</code> <code>Machine-Verified</code> <code>Open Source</code></p>
     </td>
     <td width="50%" valign="top">
       <sub><b>04 · VISUAL RESEARCH GALLERY</b></sub>
@@ -70,14 +70,14 @@ flowchart LR
     D --> A
 ```
 
-### Under the hood · AI workflow &amp; eval engine
+### Under the hood · AI evals &amp; learning products
 
 | System | Role in my daily loop |
 |---|---|
 | [**CC-Eval**](https://github.com/shengdabai/CC-Eval) | 28 real failure cases (`19 train / 9 held-out test`) measuring cost vs. accuracy across Claude Code `model × effort` settings — pairing `no-pause` against `must-ask`, with model-identity checks, budget guards &amp; offline regression tests |
 | [**AgentProof**](https://github.com/shengdabai/AgentProof) | Local-first snapshot, acceptance-command runner &amp; verifiable evidence pack for AI-assisted code changes |
-| [**Tony-Claude-Code-Skills**](https://github.com/shengdabai/Tony-Claude-Code-Skills) | 320+ curated &amp; custom Claude Code skills, 9 agents, 39 commands, sanitized configs &amp; a Codex bridge powering 75+ public repos |
 | [**ChineseThinking**](https://github.com/shengdabai/ChineseThinking) | AI Mandarin platform turning 8+ years of classroom pedagogy into daily thinking-pattern micro-challenges + an AI practice partner |
+| [**HSK-Prep-Platform**](https://github.com/shengdabai/HSK-Prep-Platform) | HSK exam-prep web app with leveled content, timed mock exams &amp; spaced-repetition mistake book (Next.js 16 + Supabase + Stripe integration) |
 
 <details>
 <summary><b>Working principles (6 rules I ship by)</b></summary>
@@ -133,11 +133,12 @@ I started teaching in **2018** and have spent the years since working across alm
 75+ public repos across AI workflows, education products, and daily knowledge output. Click any group to browse:
 
 <details>
-<summary><b>1 · AI workflows, evals &amp; builder tools (21 repos)</b></summary>
+<summary><b>1 · AI workflows, evals &amp; builder tools (22 repos)</b></summary>
 <br/>
 
 | Project | Highlights |
 |---|---|
+| [NLPM](https://github.com/shengdabai/NLPM) · [docs](https://shengdabai.github.io/NLPM/) | Fork of `xiaolai/nlpm` adding `/nlpm:advise` (36 product-readiness rules `P01–P36`) &amp; deterministic evidence verifier (`nlpm-advise-verify`) |
 | [CC-Eval](https://github.com/shengdabai/CC-Eval) | 28-case (19 train / 9 test) eval suite measuring cost vs. task accuracy across Claude Code model×effort settings |
 | [AgentProof](https://github.com/shengdabai/AgentProof) | Local-first snapshot, acceptance check &amp; verifiable evidence pack for AI-assisted code changes |
 | [Tony-Claude-Code-Skills](https://github.com/shengdabai/Tony-Claude-Code-Skills) | 320+ curated &amp; custom Claude Code skills, 9 agents, 39 commands, sanitized configs &amp; a Codex bridge |
